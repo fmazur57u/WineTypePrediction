@@ -1,5 +1,5 @@
 # WineTypePredicition
-Modéle de classification qui prédit si un vin de type vhino verde est rouge ou blanc.
+Modéle de classification qui prédit si un vin de type vhino verde portuguai est rouge ou blanc.
 
 On pourrait penser que distinguer un vin rouge d’un vin blanc ne mérite pas un modèle. Il suffit de regarder la couleur. En réalité, dans une chaîne de production, la couleur n’est pas toujours disponible, ni fiable. Les échantillons circulent dans des flacons opaques, la mesure est faite en ligne, au laboratoire on travaille sur des tableaux de résultats, et l’étiquette peut être erronée. Mon modèle répond à ce besoin concret, vérifier automatiquement que le profil chimique d’un lot est cohérent avec le type déclaré.
 
